@@ -1,0 +1,25 @@
+.tasks-cont {
+    display: flex;
+    border-radius: 3px;
+    background-color: #444345;
+    margin: 7px 0;
+    padding: 5px 10px;
+    text-align: start;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.cont-buts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.remove-task, .detalhes-task {
+    border: none;
+    background-color: #444;
+    font-size: 16px;
+    color: #82ff45;
+    cursor: pointer;
+    margin-left: 5px;
+}

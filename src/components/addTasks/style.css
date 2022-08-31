@@ -1,0 +1,26 @@
+.cont {
+    margin-bottom: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cont-inp {
+    flex: 3;
+}
+
+.inp {
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    background-color: #444345;
+    color: white;
+}
+
+.cont-butt {
+    flex: 1;
+    margin-left: 20px;
+}

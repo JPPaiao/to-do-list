@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #232123;
+    color: #fff;
+}
+
+.container {
+    margin: 30px auto;
+    border: 2px solid #82ff45;
+    background-color: #1d1b1d;
+    max-width: 350px;
+    overflow: auto;
+    padding: 17px;
+    border-radius: 10px;
+}
+
+.app {
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.btn-back {
+    width: 100%;
+}
+
+.detalhes-box {
+    background-color: #3f3f3f;
+    padding: 13px 10px;
+    margin-top: 20px;
+    text-align: start;
+    color: #000;
+    border-radius: 5px;
+}
+
+.detalhes-box > h2 {
+    font-weight: bold;
+    color: #82ff45;
+    padding-bottom: 10px;
+}
+
+.detalhes-box > p {
+    color: #fff;
+    font-size: 16px;
+}
